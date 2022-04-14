@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+.bosh{
+    width: 100vw;
+    height: 100vh;
+    background: rgb(84, 95, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+
+.plani{
+    width: 400px;
+    background-color: white;
+    height: 70%;
+    border-right: 1px solid grey;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.plani-2{
+    width: 400px;
+    background-color: white;
+    height: 70%;
+    border-right: 1px solid grey;
+}
+
+.plani-3{
+    width: 400px;
+    background-color: white;
+    height: 70%;
+    border-right: 1px solid grey;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.boshlanishi{
+    text-align: center;
+    color: grey;
+    margin-bottom: 15px;
+}
+
+hr{
+    margin-top: 20px;
+}
+  
+.img-1{
+    width: 200px;
+    margin-left: 95px;
+    margin-bottom: 20px;
+}
+
+.img-2{
+    width: 200px;
+    margin-left: 95px;
+    margin-bottom: 20px;
+}
+
+.img-3{
+    width: 200px;
+    margin-left: 95px;
+    margin-bottom: 20px;
+}
+  
+
+.ul-item , .ul-item-2{
+    list-style-type: none;
+    text-align: center;
+    color: blue;
+}
+
+.ul-item-2{
+    margin-top: 20px;
+
+}
+
+.narx{
+    display: block;
+    text-align: center;
+    font-size: 45px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    color: blue;
+}
+
+.narx-tugmasi{
+    display: block;
+    margin-left: 150px;
+    text-align: center;
+    border: 1px solid blue;
+    border-radius: 10px;
+    color: blue;
+    width: 100px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 16px;
+  }
+
+.narx-tugmasi-2:hover{
+    display: block;
+    margin-left: 150px;
+    text-align: center;
+    border: 1px solid blue;
+    border-radius: 10px;
+    color: #fff;
+    background-color: blue;
+    width: 100px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.narx-tugmasi-2{
+    display: block;
+    margin-left: 150px;
+    text-align: center;
+    border: 1px solid blue;
+    border-radius: 10px;
+    color: blue;
+    width: 100px;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 16px;
+}
